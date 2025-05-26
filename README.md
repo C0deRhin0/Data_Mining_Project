@@ -125,7 +125,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 > ⚠️ For educational and research purposes only. Do not use for unauthorized network testing.
 
-```
-
-Let me know if you want a downloadable `.md` version or a modified tone (academic, casual, executive summary, etc.).
-```
